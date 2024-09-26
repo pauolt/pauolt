@@ -1,8 +1,8 @@
-#### Aló presidentes
-## Soy Paul
+# Aló presidentes
+### Soy Paul
 ![Este soy yo](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQMWFsos1_jjOXuZT3MjVo1xaJ9ng-FO8VhNX8qQbY1OxH2wRI)
 
-# **Este soy yo**
+#### **Este soy yo**
 
 
 Soy un estudiante de 1º de DAM, y me gustaría seguir estudiando hasta acabar la carrera de ingenieria _**informática**_.
