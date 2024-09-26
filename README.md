@@ -11,7 +11,7 @@ Soy un estudiante de 1º de DAM, y me gustaría seguir estudiando hasta acabar l
 Me gustan los videojuegos y lo relacionado con la tecnología :alien:
 
 
-Soy **experto** en Java, XML, C++ y *Markdown* :smirk: (~~En verdad no~~)
+Soy ==experto== en Java, XML, C++ y *Markdown* :smirk: (~~En verdad no~~)
 
 ![Gato](https://www.clinicas-veterpet.com/wp-content/uploads/2024/02/blog-veterpet-edad-gatitos.jpg)
 - [x] Foto de gato para Ester.
