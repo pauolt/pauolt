@@ -1,7 +1,12 @@
-### Aló presidentes
-# Soy Paul
-![**Este soy yo**](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQMWFsos1_jjOXuZT3MjVo1xaJ9ng-FO8VhNX8qQbY1OxH2wRI)
+#### Aló presidentes
+## Soy Paul
+![Este soy yo](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSQMWFsos1_jjOXuZT3MjVo1xaJ9ng-FO8VhNX8qQbY1OxH2wRI)
+
+**Este soy yo**
+Soy un estudiante de 1º de DAM, y me gustaría seguir estudiando hasta acabar la carrera de ingenieria _**informatica**_.
 
 
-Actualmente estoy estudiando 1º de _DAM_, porque me gustaría ser ingeniero informático en un *futuro*. 
-Me gustan los videojuegos y todo lo relacionado con la tecnología.
+Me gustan los videojuegos y lo relacionado con la tecnología :alien:
+
+
+Soy **experto** en Java, XML, C++ y *Markdown* :smirk: (~~En verdad no~~)
