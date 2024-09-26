@@ -23,4 +23,4 @@ Soy **experto** en Java, XML, C++ y *Markdown* :smirk: (~~En verdad no~~)
 
 
 ![Gato](https://www.clinicas-veterpet.com/wp-content/uploads/2024/02/blog-veterpet-edad-gatitos.jpg)
-- [x] Foto de gato para Ester.
+- [x] Foto de un gato para Ester.
