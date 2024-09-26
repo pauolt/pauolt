@@ -16,8 +16,7 @@ Un torneo en directo en el que participe:
 [Ricardo](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-Soy **experto** en Java, XML, C++ y *Markdown* :smirk: (~~En verdad no~~)
-:trollface:
+Soy **experto** en Java, XML, C++ y *Markdown* :smirk: (~~En verdad no~~) :trollface:
 
 
 
